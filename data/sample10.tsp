@@ -1,0 +1,17 @@
+NAME: sample10
+TYPE: TSP
+COMMENT: Small TSPLIB-format demo instance for the notebook and tests
+DIMENSION: 10
+EDGE_WEIGHT_TYPE: EUC_2D
+NODE_COORD_SECTION
+1 10 10
+2 35 12
+3 58 9
+4 82 18
+5 90 43
+6 73 68
+7 48 78
+8 25 70
+9 8 48
+10 44 42
+EOF
